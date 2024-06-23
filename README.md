@@ -17,3 +17,6 @@
     adjusting to changing conditions, adaptive bitrate streaming can minimize disruptions for mobile viewers.
 
 </p>
+
+<br>
+
