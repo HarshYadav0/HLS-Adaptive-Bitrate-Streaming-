@@ -20,3 +20,9 @@
 
 <br>
 
+<p>
+  <b>ARCHITECTURE</b>
+</p>
+
+![Screenshot 2024-06-21 205506](https://github.com/HarshYadav0/HLS-Adaptive-Bitrate-Streaming-/assets/91417647/68a63e4e-6ee5-4696-a59e-4d00863c3b81)
+
